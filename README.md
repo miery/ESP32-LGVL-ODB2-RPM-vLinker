@@ -17,7 +17,7 @@ This project is built specifically for the **VIEWE-SMARTRING**, a high-end circu
 ## 🛠️ Features
 * **Bluetooth Low Energy (NimBLE):** Fast scanning and stable connection to the `vLinker MC-IOS` adapter.
 * **LVGL 8.3 Graphics:** Smooth UI rendering with high-resolution fonts and flicker-free DMA buffering.
-* **OBD-II Protocol Parsing:** Real-time extraction of Engine RPM (PID `01 0C`) and Throttle Position (PID `01 11`).
+* **OBD-II Protocol Parsing:** Real-time extraction of Engine RPM (PID `01 0C`).
 * **Auto-Reconnect:** Automatic system recovery and re-scanning if the BLE connection is interrupted.
 * **Optimized Performance:** Uses QSPI interface for the AMOLED panel to achieve high frame rates.
 
