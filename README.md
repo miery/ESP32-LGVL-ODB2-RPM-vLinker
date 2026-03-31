@@ -33,5 +33,5 @@ This project is built specifically for the **VIEWE-SMARTRING**, a high-end circu
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/miery/ESP32-LGVL-ODB2-RPM-vLinker]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/miery/ESP32-LGVL-ODB2-RPM-vLinker))
+   git clone https://github.com/miery/ESP32-LGVL-ODB2-RPM-vLinker
    cd ESP32-LGVL-ODB2-RPM-vLinker
